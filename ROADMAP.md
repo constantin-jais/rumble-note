@@ -21,4 +21,5 @@ This is a contribution map, not a startup roadmap or a delivery promise. It show
 
 - broader local integrations;
 - provenance for exported context artifacts;
+- knowledge-graph and mapping-point visualization over notes, code maps, and linked context (need captured in the ecosystem shared spec `codebase-memory-mcp-decomposition.md`);
 - sync or multi-device usage only when encryption, conflict, and privacy boundaries are explicit.
