@@ -63,6 +63,10 @@ sh ecosystem/specs/ci-validate-contracts.sh
 
 Only use that command when the path exists in this repository.
 
+## Developer Certificate of Origin
+
+Contributions use the [Developer Certificate of Origin 1.1](https://developercertificate.org/) prospectively. Sign every commit with `git commit -s`. The sign-off certifies your right to submit under the existing MIT license and does not relicense history.
+
 ## Pull request guidelines
 
 A good pull request should:
