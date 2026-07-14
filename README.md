@@ -17,6 +17,8 @@ A private-by-default, local-first knowledge workspace designed for controlled co
 
 This repository documents intent. It is not a usable notes application today.
 
+See the [product readiness cockpit](docs/product-readiness.md) for the canonical local snapshot of what is proven, partial, blocked, and later.
+
 ## Product boundary
 
 Notebook is intended to own:
