@@ -17,6 +17,8 @@ A private-by-default, local-first knowledge workspace designed for controlled co
 
 This repository documents intent. It is not a usable notes application today.
 
+See the [product readiness cockpit](docs/product-readiness.md) for the canonical local snapshot of what is proven, partial, blocked, and later.
+
 ## Product boundary
 
 Notebook is intended to own:
@@ -31,6 +33,8 @@ It does **not** own generic extraction, orchestration, shared client infrastruct
 ## Next evidence
 
 The next milestone is a minimal block model plus fixture-backed `NoteContextExport` privacy checks. Sync, hosted use and multi-device claims remain out of scope until encryption, conflict and authorization boundaries are proven.
+
+The cockpit at [docs/product-readiness.md](docs/product-readiness.md) keeps the gap between documented intent and shipped capability visible.
 
 ## Contributing
 
